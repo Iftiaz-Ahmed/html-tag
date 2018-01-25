@@ -9,17 +9,15 @@
 
 .left {
 	background:#7eef77;
-    width: 80%;
-    height: auto;
+	width: 80%;
+	height: 4605px;
 	float: left;
-	
-	
 }
 
 .right {
 	background: #11309c;
 	width: 20%;
-	height: auto;
+	height: 4605px;
 	float: left;
 	color: #7eef77;
 	text-align:center;
