@@ -1,23 +1,22 @@
 .container {
-	height: 4605px;
-    width: 100%;
-    background: #b5abc5;
-    margin-left: auto;
-    margin-right: auto;
-
+	min-height: 100%;
+	width: 100%;
+	background: #b5abc5;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .left {
 	background:#7eef77;
 	width: 80%;
-	height: 4605px;
+	min-height: 100%;
 	float: left;
 }
 
 .right {
 	background: #11309c;
 	width: 20%;
-	height: 4605px;
+	min-height: 100%;
 	float: left;
 	color: #7eef77;
 	text-align:center;
@@ -53,4 +52,7 @@ p {
 }
 body {
 
+}
+.imgDown{
+	margin-top: 644%;
 }
